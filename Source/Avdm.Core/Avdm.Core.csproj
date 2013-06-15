@@ -52,6 +52,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Di\SystemClock.cs" />
     <Compile Include="Di\SystemEnvironment.cs" />
+    <Compile Include="TestApp\ConsoleTestApp.cs" />
+    <Compile Include="TestApp\MenuItem.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
