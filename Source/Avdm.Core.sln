@@ -12,6 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{4A2564
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avdm.AppRunnerStub", "Avdm.AppRunnerStub\Avdm.AppRunnerStub.csproj", "{F7FD991F-D6C0-4D29-A851-78FC2FE7C048}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94280639-857B-47F8-B5AF-7B17288E3E39}"
+	ProjectSection(SolutionItems) = preProject
+		..\licence.txt = ..\licence.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
