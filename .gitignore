@@ -49,8 +49,10 @@ README.markdown.html
 StyleCop.Cache
 *.dbmdl
 output/
-_scripts/ETL/*/*.cs
 TestResults/*
-Source/packages/
 _build/
+
+#nuget
+Source/packages/*
+!Source/packages/repositories.config
 *.nupkg
